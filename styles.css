@@ -365,7 +365,7 @@ a:hover{
     position: absolute;
     top: -5%;
     left: 0;
-    background-image: url("https://raw.githubusercontent.com/sunil9813/Hotel-Booking-Design/main/Hotel%20Booking/image/line1.png");
+    background-image: url("https://i.pinimg.com/736x/5c/ff/80/5cff802d48d74607ac929ec2751684e9--straight-lines.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     height: 50px;
@@ -377,7 +377,7 @@ a:hover{
     position: absolute;
     bottom: -5%;
     left: 0;
-    background-image: url("https://raw.githubusercontent.com/sunil9813/Hotel-Booking-Design/main/Hotel%20Booking/image/line2.png");
+    background-image: url("https://i.pinimg.com/736x/5c/ff/80/5cff802d48d74607ac929ec2751684e9--straight-lines.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     height: 50px;
@@ -387,7 +387,7 @@ a:hover{
   /*------------about------------*/
   /*------------wrapper------------*/
   .wrapper {
-    background-image: url("https://raw.githubusercontent.com/sunil9813/Hotel-Booking-Design/main/Hotel%20Booking/image/w.jpg");
+    background-image: url("https://cdn.kiwicollection.com/media/property/PR100453/xl/100453-01-1.%20Hero-Kokomo%20Private%20Island%20Fiji.jpg?cb=1562802053");
     height: 80vh;
     background-attachment: fixed;
     background-position: center;
@@ -500,7 +500,7 @@ a:hover{
     position: absolute;
     top: -22%;
     left: 0;
-    background-image: url("https://raw.githubusercontent.com/sunil9813/Hotel-Booking-Design/main/Hotel%20Booking/image/line1.png");
+    background-image: url("https://i.pinimg.com/736x/5c/ff/80/5cff802d48d74607ac929ec2751684e9--straight-lines.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     height: 75px;
@@ -558,13 +558,13 @@ a:hover{
   }
   
   .timer.wrapper {
-    background-image: url("https://raw.githubusercontent.com/sunil9813/Hotel-Booking-Design/main/Hotel%20Booking/image/w2.jpg");
+    background-image: url("https://www.itchotels.com/content/dam/itchotels/in/umbrella/welcomHotel/hotels/welcomhotelkencespalmbeach-mamallapuram/images/overview-landing-page/headmast/desktop/pool-side.png");
   }
   
   .timer.about::after {
     z-index: 1;
     top: 0%;
-    background-image: url("https://raw.githubusercontent.com/sunil9813/Hotel-Booking-Design/main/Hotel%20Booking/image/line2.png");
+    background-image: url("https://i.pinimg.com/736x/5c/ff/80/5cff802d48d74607ac929ec2751684e9--straight-lines.jpg");
   }
   
   .timer.about::before {
@@ -682,7 +682,7 @@ a:hover{
   }
   
   .offer2.wrapper {
-    background-image: url("https://raw.githubusercontent.com/sunil9813/Hotel-Booking-Design/main/Hotel%20Booking/image/w3.jpg");
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYfbefP4uCi8C7qpJkhjFHYZ7Yi2fwWLmjE7xklTi6GUuXYQBLnqCCWU3F3EpKUE8H61g&usqp=CAU");
     height: 90vh;
     background-attachment: scroll;
   }
